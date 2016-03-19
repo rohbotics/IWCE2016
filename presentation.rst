@@ -7,7 +7,47 @@ This uses hovercraft
 
 ----
 
-:id: title-step
+:class: title-step
+
+Rohan Agrawal
+=============
+
+KJ6LXV
+--------
+
+.. note::
+
+    Welcome to the presenter console!
+
+----
+
+:id: people-met
+
+.. image:: img/DSC_0033.JPG
+	:width: 400px
+
+.. image:: img/DSC_0258.JPG
+	:width: 400px
+	:class: right
+
+.. image:: img/DSC_0161.JPG
+	:width: 400px
+
+.. image:: img/DSC_0046.JPG
+	:width: 400px
+	:class: right
+
+.. note::
+	
+	Frank Drake
+
+	Bob Heil
+
+	Bob Brunanga
+
+----
+
+:class: title-step
 
 Texting Without Bars
 ====================
@@ -21,21 +61,6 @@ Rohan Agrawal
 
 ----
 
-GUI tools are inflexible
-========================
-
-* It's hard to reorganize or import text
-
-* Slow and memory hungry
-
-* You get caught up in design early in the process.
-
-.. note::
-
-    Here you have a view of the current slide, a preview of the next slide
-    and your notes.
-
-----
 
 Use reStructuredText!
 =====================
