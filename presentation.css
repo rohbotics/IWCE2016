@@ -67,6 +67,20 @@ img {
     display: inline-block;
 }
 
+.impress-enabled .step {
+    margin: 0;
+    opacity: 0.3;
+
+    -webkit-transition: opacity 1s;
+    -moz-transition:    opacity 1s;
+    -ms-transition:     opacity 1s;
+    -o-transition:      opacity 1s;
+    transition:         opacity 1s;
+}
+
+.impress-enabled .step.active { opacity: 1 }
+
+
 #people-met .right {
     margin-left: 10px;
 }
@@ -74,4 +88,15 @@ img {
 .title-step h1 {
     font-family: Racing Sans One;
     font-size: 350%;
+}
+
+#overview { display: none }
+
+/*
+    We also make other steps visible and give them a pointer cursor using the
+    `impress-on-` class.
+*/
+.impress-on-overview .step {
+    opacity: 1;
+    cursor: pointer;
 }

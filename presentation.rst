@@ -10,7 +10,8 @@ This uses hovercraft
 :id: rohan-agrawal
 :class: title-step
 
-:hovercraft-path: M 296.5979,487.83217 C 302.68993,478.67818 313.68212,480.68862 316.39332,487.83217 317.18283,491.91803 317.1513,497.09067 314.62301,498.62438 312.58979,500.74543 310.43343,501.02642 309.15825,501.88406 L 309.06237,509.84153
+:hovercraft-path: M 244.33315,446.99882 C 260.84654,420.31092 294.39935,402.58403 325.70084,411.36299 347.13547,417.01978 367.15061,435.26442 368.0023,458.47539 369.82857,474.70986 370.44782,492.72044 361.70175,507.15626 353.08694,521.97842 326.56164,531.87968 312.287,531.28142 305.75136,536.89558 308.64594,541.19285 307.94001,543.83643 L 307.47331,582.56956
+
 
 Rohan Agrawal
 =============
@@ -23,6 +24,8 @@ KJ6LXV
     Welcome to the presenter console!
 
 ----
+
+:data-rotate-x: 50
 
 .. image:: img/104.JPG
 	:width: 400px
@@ -59,6 +62,9 @@ KJ6LXV
 	David Leeson, California Microwave
 
 ----
+
+:data-rotate-x: 00
+:data-rotate-y: 50
 
 :id: texting-without-bars
 :class: title-step
@@ -110,7 +116,9 @@ Rohan Agrawal
 
 .. note::
 	Challenges:
+
 	Alignment
+
 	Antenna
 
 	Justin Mitchell, Chip Cohen from Fractal Antennas helped with the VNA
@@ -125,18 +133,18 @@ Rohan Agrawal
 :id: overview
 :data-x: 5000
 :data-y: 5000
-:data-z: 1000
+:data-z: 3000
 :data-rotate: 0
 :data-rotate-x: 0
 :data-rotate-y: 0
-:data-scale: 20
+:data-scale: 22
 
 ----
 
 :class: title-step
 :data-scale: 1
-:data-x: 0000
-:data-y: 1000
+:data-x: 4000
+:data-y: 10500
 
 Thank you!
 ==========
