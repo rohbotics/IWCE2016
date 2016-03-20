@@ -105,6 +105,17 @@ Rohan Agrawal
 
 ----
 
+New Board Challenges
+====================
+
+- Alignment
+- Antenna
+
+.. note::
+	Justin Mitchell, Chip Cohen from Fractal Antennas helped with the VNA
+
+----
+
 But then there was Prezi
 ========================
 
@@ -150,3 +161,16 @@ You need to be able to...
 :data-z: 1000
 :data-rotate: 0
 :data-scale: 10
+
+----
+
+:class: title-step
+:data-scale: 1
+:data-x: 0000
+:data-y: 1000
+
+Thank you!
+==========
+
+rohan@aleopile.com
+linkedin.com/in/rohbotics
