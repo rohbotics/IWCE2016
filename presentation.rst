@@ -10,6 +10,8 @@ This uses hovercraft
 :id: rohan-agrawal
 :class: title-step
 
+:hovercraft-path: M 296.5979,487.83217 C 302.68993,478.67818 313.68212,480.68862 316.39332,487.83217 317.18283,491.91803 317.1513,497.09067 314.62301,498.62438 312.58979,500.74543 310.43343,501.02642 309.15825,501.88406 L 309.06237,509.84153
+
 Rohan Agrawal
 =============
 
@@ -24,6 +26,9 @@ KJ6LXV
 
 .. image:: img/104.JPG
 	:width: 400px
+
+.. note::
+	Me getting my Tech license in 2009
 
 ----
 
@@ -90,77 +95,41 @@ Rohan Agrawal
 
 ----
 
-.. image:: img/Explositon.jpg
+.. image:: img/Explositon.png
 	:width: 800px
 
 ----
 
-.. image:: img/Odin_new.JPG
+.. image:: img/Odin_new.png
 	:width: 800px
 
 ----
 
-.. image:: img/OdinMB.png
-	:width: 400px
-
-----
-
-New Board Challenges
-====================
-
-- Alignment
-- Antenna
+.. image:: img/3d_board.png
+	:width: 600px
 
 .. note::
+	Challenges:
+	Alignment
+	Antenna
+
 	Justin Mitchell, Chip Cohen from Fractal Antennas helped with the VNA
 
 ----
 
-But then there was Prezi
-========================
-
-Sliding from left to right is no longer enough.
-You need to be able to...
-
-.. note::
-
-    If you click on the timer it restarts from zero. This is handy when you
-    are rehearsing the presentation and need to make sure it fits in the time
-    allocated.
-
-----
-
-:data-y: r1000
-
-...pan...
-=========
-
-.. note::
-
-    If you have more notes than fit in the console, you can scroll down, but
-    more handily, you can scroll the text up by pressing space bar.
-
-----
-
-:data-rotate: 90
-
-...rotate...
-============
-
-.. note::
-
-   If there isn't more text to scroll up, space bar will go to the next
-   slide. Therefore you, as a presenter, just press space every time you run
-   out of things to say!
+.. image:: img/box2.png
+	:width: 800px
 
 ----
 
 :id: overview
 :data-x: 5000
-:data-y: 0
+:data-y: 5000
 :data-z: 1000
 :data-rotate: 0
-:data-scale: 10
+:data-rotate-x: 0
+:data-rotate-y: 0
+:data-scale: 20
 
 ----
 
