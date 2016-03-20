@@ -7,6 +7,7 @@ This uses hovercraft
 
 ----
 
+:id: rohan-agrawal
 :class: title-step
 
 Rohan Agrawal
@@ -18,6 +19,11 @@ KJ6LXV
 .. note::
 
     Welcome to the presenter console!
+
+----
+
+.. image:: img/104.JPG
+	:width: 400px
 
 ----
 
@@ -39,14 +45,17 @@ KJ6LXV
 
 .. note::
 	
-	Frank Drake
+	Frank Drake, SETI
 
-	Bob Heil
+	Bob Heil, Heil
 
-	Bob Brunanga
+	Bob Bruninga, APRS
+
+	David Leeson, California Microwave
 
 ----
 
+:id: texting-without-bars
 :class: title-step
 
 Texting Without Bars
@@ -61,20 +70,38 @@ Rohan Agrawal
 
 ----
 
+.. image:: img/texting.jpg
+	:width: 600px	
 
-Use reStructuredText!
-=====================
+----
 
-* You can use your favorite text-editor!
+.. image:: img/packet-setup.jpg
+	:width: 800px	
 
-* Many tools available: Landslide, S5
+----
 
-* Convenient (and powerful!)
+.. image:: img/serial.gif
+	:width: 500px
 
-.. note::
+----
 
-    You also have a clock and a timer, so you know how much time you have
-    left.
+.. image:: img/bluetooth.png
+	:width: 400px
+
+----
+
+.. image:: img/Explositon.jpg
+	:width: 800px
+
+----
+
+.. image:: img/Odin_new.JPG
+	:width: 800px
+
+----
+
+.. image:: img/OdinMB.png
+	:width: 400px
 
 ----
 
@@ -117,14 +144,9 @@ You need to be able to...
 
 ----
 
-:data-x: r0
-:data-y: r500
-:data-scale: 0.1
-
-...and zoom!
-============
-
-.. note::
-
-    Zooming is cool. But one day it will grow old as well. What will we do
-    then to make presentations interesting?
+:id: overview
+:data-x: 5000
+:data-y: 0
+:data-z: 1000
+:data-rotate: 0
+:data-scale: 10
