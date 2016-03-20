@@ -94,7 +94,7 @@ Rohan Agrawal
 
 ----
 
-.. image:: img/packet-setup.jpg
+.. image:: img/2016-03-20.jpg
 	:width: 800px	
 
 ----
