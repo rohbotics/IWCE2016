@@ -35,6 +35,14 @@ KJ6LXV
 
 ----
 
+.. image:: img/hexbeam.jpg
+	:width: 800px
+
+.. note::
+	Putting up hexbeam on Field Day
+
+----
+
 :id: people-met
 
 .. image:: img/DSC_0033.JPG
