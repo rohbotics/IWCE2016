@@ -1,0 +1,102 @@
+@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville|Racing+Sans+One|Satisfy);
+/*@import url(https://fonts.googleapis.com/icon?family=Material+Icons);*/
+
+.step {
+    width: 810px !important;
+}
+
+body {
+    font-size: 200%;
+    text-align: center;
+    font-family: Libre Baskerville;
+    background-image: url(img/tiny_grid.png);
+}
+
+
+p {
+    font-size: 125%;
+    font-weight: normal;
+    margin-bottom: 0.3em;
+    margin-top: 0.3em;
+}
+
+em {
+    font-family: Satisfy;
+    font-size: 142%;
+}
+
+strong {
+    font-family: Racing Sans One;
+    font-size: 127%;
+    letter-spacing: -2px;
+}
+
+h1, h2, h3, h4 {
+    font-weight: bold;
+    margin-bottom: 0.3em;
+    margin-top: 0.3em;
+}
+
+h1 {
+    transform: translateZ(100px);
+}
+
+
+ul {
+    list-style-position: inside;
+}
+
+li {
+    font-family: serif;
+    font-weight: normal;
+    margin-bottom: 0.3em;
+    margin-top: 0.3em;
+    padding-left: 0.3em;
+    line-height: 1.8em;
+    text-align: left;
+    list-style-type: circle;
+    font-size: 180%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    display: inline-block;
+}
+
+.impress-enabled .step {
+    margin: 0;
+    opacity: 0.3;
+
+    -webkit-transition: opacity 1s;
+    -moz-transition:    opacity 1s;
+    -ms-transition:     opacity 1s;
+    -o-transition:      opacity 1s;
+    transition:         opacity 1s;
+}
+
+.impress-enabled .step.active { opacity: 1; }
+
+
+#people-met .right {
+    margin-left: 10px;
+}
+
+.title-step h1 {
+    font-family: Racing Sans One;
+    font-size: 350%;
+}
+
+#overview { display: none }
+
+/*
+    We also make other steps visible and give them a pointer cursor using the
+    `impress-on-` class.
+*/
+.impress-on-overview .step {
+    opacity: 1;
+    cursor: pointer;
+}
